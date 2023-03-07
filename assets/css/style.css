@@ -232,7 +232,7 @@ html {
     từ lớp padding */
     /* padding chính là chiều cao của slider */
     /* dùng bg "shorthand" */
-    background: url('/w3_theband/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
     position: relative;
 }
 
